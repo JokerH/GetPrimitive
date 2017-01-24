@@ -1,0 +1,5 @@
+c:\users\ph1\documents\visual studio 2012\Projects\GetPrimitive\GetPrimitive\bin\Debug\GetPrimitive.dll
+c:\users\ph1\documents\visual studio 2012\Projects\GetPrimitive\GetPrimitive\bin\Debug\GetPrimitive.pdb
+c:\users\ph1\documents\visual studio 2012\Projects\GetPrimitive\GetPrimitive\obj\Debug\GetPrimitive.csprojResolveAssemblyReference.cache
+c:\users\ph1\documents\visual studio 2012\Projects\GetPrimitive\GetPrimitive\obj\Debug\GetPrimitive.dll
+c:\users\ph1\documents\visual studio 2012\Projects\GetPrimitive\GetPrimitive\obj\Debug\GetPrimitive.pdb

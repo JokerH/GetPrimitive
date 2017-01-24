@@ -1,0 +1,80 @@
+c:\users\ph1\documents\visual studio 2012\Projects\GetPrimitive\GetPrimitive\bin\x64\Debug\GetPrimitive.dll
+c:\users\ph1\documents\visual studio 2012\Projects\GetPrimitive\GetPrimitive\bin\x64\Debug\GetPrimitive.pdb
+c:\users\ph1\documents\visual studio 2012\Projects\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.csprojResolveAssemblyReference.cache
+c:\users\ph1\documents\visual studio 2012\Projects\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.dll
+c:\users\ph1\documents\visual studio 2012\Projects\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.pdb
+C:\Users\ph1\documents\visual studio 2012\Projects\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.Form1.resources
+C:\Users\ph1\documents\visual studio 2012\Projects\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.csproj.GenerateResource.Cache
+D:\GoogleDrive\PCL\Codes\GetPrimitive\GetPrimitive\bin\x64\Debug\GetPrimitive.dll
+D:\GoogleDrive\PCL\Codes\GetPrimitive\GetPrimitive\bin\x64\Debug\GetPrimitive.pdb
+D:\GoogleDrive\PCL\Codes\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\PCL\Codes\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.Form1.resources
+D:\GoogleDrive\PCL\Codes\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.csproj.GenerateResource.Cache
+D:\GoogleDrive\PCL\Codes\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.dll
+D:\GoogleDrive\PCL\Codes\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.pdb
+N:\District Office\Engineering\UofA Work Folder\3D model extract estimating\Test\GetPrimitive718\GetPrimitive\bin\x64\Debug\GetPrimitive.dll
+N:\District Office\Engineering\UofA Work Folder\3D model extract estimating\Test\GetPrimitive718\GetPrimitive\bin\x64\Debug\GetPrimitive.pdb
+N:\District Office\Engineering\UofA Work Folder\3D model extract estimating\Test\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.csprojResolveAssemblyReference.cache
+N:\District Office\Engineering\UofA Work Folder\3D model extract estimating\Test\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.Form1.resources
+N:\District Office\Engineering\UofA Work Folder\3D model extract estimating\Test\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.csproj.GenerateResource.Cache
+N:\District Office\Engineering\UofA Work Folder\3D model extract estimating\Test\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.dll
+N:\District Office\Engineering\UofA Work Folder\3D model extract estimating\Test\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.pdb
+N:\District Office\Engineering\UofA Work Folder\3D model extract estimating\Test\GetPrimitive718\GetPrimitive\bin\x64\Debug\MathNet.Numerics.dll
+N:\District Office\Engineering\UofA Work Folder\3D model extract estimating\Test\GetPrimitive718\GetPrimitive\bin\x64\Debug\MathNet.Numerics.xml
+D:\GoogleDrive\PCL\Codes\GetPrimitive718\GetPrimitive\bin\x64\Debug\GetPrimitive.dll
+D:\GoogleDrive\PCL\Codes\GetPrimitive718\GetPrimitive\bin\x64\Debug\GetPrimitive.pdb
+D:\GoogleDrive\PCL\Codes\GetPrimitive718\GetPrimitive\bin\x64\Debug\MathNet.Numerics.dll
+D:\GoogleDrive\PCL\Codes\GetPrimitive718\GetPrimitive\bin\x64\Debug\MathNet.Numerics.xml
+D:\GoogleDrive\PCL\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\PCL\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.Form1.resources
+D:\GoogleDrive\PCL\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.csproj.GenerateResource.Cache
+D:\GoogleDrive\PCL\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.dll
+D:\GoogleDrive\PCL\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.pdb
+D:\GoogleDrive\PCL\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.StartForm.resources
+D:\Google Drive\PCL\Codes\GetPrimitive718\GetPrimitive\bin\x64\Debug\GetPrimitive.dll
+D:\Google Drive\PCL\Codes\GetPrimitive718\GetPrimitive\bin\x64\Debug\GetPrimitive.pdb
+D:\Google Drive\PCL\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.csprojResolveAssemblyReference.cache
+D:\Google Drive\PCL\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.Form1.resources
+D:\Google Drive\PCL\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.StartForm.resources
+D:\Google Drive\PCL\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.csproj.GenerateResource.Cache
+D:\Google Drive\PCL\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.dll
+D:\Google Drive\PCL\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.pdb
+D:\Dropbox\Codes\OldCodes\GetPrimitive718\GetPrimitive\bin\x64\Debug\GetPrimitive.dll
+D:\Dropbox\Codes\OldCodes\GetPrimitive718\GetPrimitive\bin\x64\Debug\GetPrimitive.pdb
+D:\Dropbox\Codes\OldCodes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.csprojResolveAssemblyReference.cache
+D:\Dropbox\Codes\OldCodes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.Form1.resources
+D:\Dropbox\Codes\OldCodes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.StartForm.resources
+D:\Dropbox\Codes\OldCodes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.csproj.GenerateResource.Cache
+D:\Dropbox\Codes\OldCodes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.dll
+D:\Dropbox\Codes\OldCodes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.pdb
+D:\Dropbox\Codes\GetPrimitive718\GetPrimitive\bin\x64\Debug\GetPrimitive.dll
+D:\Dropbox\Codes\GetPrimitive718\GetPrimitive\bin\x64\Debug\GetPrimitive.pdb
+D:\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.csprojResolveAssemblyReference.cache
+D:\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.Form1.resources
+D:\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.StartForm.resources
+D:\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.csproj.GenerateResource.Cache
+D:\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.dll
+D:\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.pdb
+C:\Users\phan\Dropbox\Codes\GetPrimitive718\GetPrimitive\bin\x64\Debug\GetPrimitive.dll
+C:\Users\phan\Dropbox\Codes\GetPrimitive718\GetPrimitive\bin\x64\Debug\GetPrimitive.pdb
+C:\Users\phan\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.csprojResolveAssemblyReference.cache
+C:\Users\phan\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.Form1.resources
+C:\Users\phan\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.StartForm.resources
+C:\Users\phan\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.csproj.GenerateResource.Cache
+C:\Users\phan\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.dll
+C:\Users\phan\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.pdb
+C:\Users\Hanpx.MSI\Dropbox\Codes\GetPrimitive718\GetPrimitive\bin\x64\Debug\GetPrimitive.dll
+C:\Users\Hanpx.MSI\Dropbox\Codes\GetPrimitive718\GetPrimitive\bin\x64\Debug\GetPrimitive.pdb
+C:\Users\Hanpx.MSI\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.csprojResolveAssemblyReference.cache
+C:\Users\Hanpx.MSI\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.Form1.resources
+C:\Users\Hanpx.MSI\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.csproj.GenerateResource.Cache
+C:\Users\Hanpx.MSI\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.dll
+C:\Users\Hanpx.MSI\Dropbox\Codes\GetPrimitive718\GetPrimitive\obj\x64\Debug\GetPrimitive.pdb
+C:\Users\Hanpx.MSI\Dropbox\Codes\GetPrimitive718\GetPrimitive\bin\x64\Debug\Autodesk.Navisworks.Interop.ComApi.dll
+C:\Users\phan\Dropbox\Codes\GetPrimitive123\GetPrimitive\bin\x64\Debug\GetPrimitive.dll
+C:\Users\phan\Dropbox\Codes\GetPrimitive123\GetPrimitive\bin\x64\Debug\GetPrimitive.pdb
+C:\Users\phan\Dropbox\Codes\GetPrimitive123\GetPrimitive\obj\x64\Debug\GetPrimitive.csprojResolveAssemblyReference.cache
+C:\Users\phan\Dropbox\Codes\GetPrimitive123\GetPrimitive\obj\x64\Debug\GetPrimitive.Form1.resources
+C:\Users\phan\Dropbox\Codes\GetPrimitive123\GetPrimitive\obj\x64\Debug\GetPrimitive.csproj.GenerateResource.Cache
+C:\Users\phan\Dropbox\Codes\GetPrimitive123\GetPrimitive\obj\x64\Debug\GetPrimitive.dll
+C:\Users\phan\Dropbox\Codes\GetPrimitive123\GetPrimitive\obj\x64\Debug\GetPrimitive.pdb
