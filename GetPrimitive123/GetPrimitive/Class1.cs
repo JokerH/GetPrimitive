@@ -20,7 +20,7 @@ namespace GetPrimitive
     {
         public override int Execute(params string[] parameters)
         {
-            MessageBox.Show("Hello!");
+            MessageBox.Show("Hello!!");
 
             //StartForm startForm = new StartForm();
             //startForm.Show();
