@@ -53,7 +53,7 @@ namespace GetPrimitive
 
             //MessageBox.Show(callbkListener.points);
             //this.SaveData(callbkListener);
-            string originPath = @"E:\temp\origin.txt";
+            string originPath = @"D:\temp\origin.txt";
             this.SavaData2txt(originPath, callbkListener.coordinate.ToString());
 
             //Get all the points and save them into a 2-dimensional list
@@ -64,7 +64,7 @@ namespace GetPrimitive
             {
                 preData.Append(line[0] + "," + line[1] + "," + line[2] + "\r\n");
             }
-            this.SavaData2txt(@"E:\temp\preData.txt", preData.ToString());
+            this.SavaData2txt(@"D:\temp\preData.txt", preData.ToString());
 
             return 0;
         }
@@ -72,7 +72,7 @@ namespace GetPrimitive
         //save data to a txt file
         public void SavaData2txt(string filePath, string data)
         {
-            FileStream fst = new FileStream(filePath, FileMode.Create);
+            FileStream fst = new FileStream(filePath, FileMode.OpenOrCreate);
             StreamWriter swt = new StreamWriter(fst);
 
             swt.Write(data);
