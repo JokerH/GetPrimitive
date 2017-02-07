@@ -57,15 +57,46 @@ namespace GetPrimitive
             this.SavaData2txt(originPath, callbkListener.coordinate.ToString());
 
             //Get all the points and save them into a 2-dimensional list
-            List<List<string>> points = GetPoints(originPath);
+            //List<List<string>> points = GetPoints(originPath);
 
-            StringBuilder preData = new StringBuilder();
-            foreach (var line in points)
+            //StringBuilder preData = new StringBuilder();
+            //foreach (var line in points)
+            //{
+            //    preData.Append(line[0] + "," + line[1] + "," + line[2] + "\r\n");
+            //}
+            //this.SavaData2txt(@"C:\temp\preData.txt", preData.ToString());
+            FileStream fst = new FileStream(originPath, FileMode.Open);
+            StreamReader srd = new StreamReader(fst);
+
+            string line = null;
+            List<string[]> points = new List<string[]>();
+            int i = 0;
+            while (i < 63)
             {
-                preData.Append(line[0] + "," + line[1] + "," + line[2] + "\r\n");
+                string[] coordinates = srd.ReadLine().Split(',');
+                points.Add(coordinates);
+                i++;
             }
-            this.SavaData2txt(@"C:\temp\preData.txt", preData.ToString());
 
+            StringBuilder sb = new StringBuilder();
+
+            for (int j = 0; j < points.Count; j++)
+            {
+                for (int k = 0; k < 9; k=k+3)
+                {
+                    sb.Append("point ");
+                    sb.Append(points[j][k]+",");
+                    sb.Append(points[j][k + 1]+",");
+                    sb.Append(points[j][k + 2]+"\r\n");
+                }
+            }
+            FileStream nfst = new FileStream(@"C:\temp\points.txt", FileMode.OpenOrCreate);
+            StreamWriter sw = new StreamWriter(nfst);
+            sw.Write(sb);
+
+            sw.Close();
+            nfst.Close();
+                        
             return 0;
         }
 
