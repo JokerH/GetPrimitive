@@ -86,3 +86,11 @@ C:\Users\Hanpx.MSI\Documents\GitHub\GetPrimitive\GetPrimitive\obj\x64\Debug\GetP
 C:\Users\Hanpx.MSI\Documents\GitHub\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.csproj.GenerateResource.Cache
 C:\Users\Hanpx.MSI\Documents\GitHub\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.dll
 C:\Users\Hanpx.MSI\Documents\GitHub\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.pdb
+C:\Users\ph1\Documents\GitHub\GetPrimitive\GetPrimitive\bin\x64\Debug\GetPrimitive.dll
+C:\Users\ph1\Documents\GitHub\GetPrimitive\GetPrimitive\bin\x64\Debug\GetPrimitive.pdb
+C:\Users\ph1\Documents\GitHub\GetPrimitive\GetPrimitive\bin\x64\Debug\Autodesk.Navisworks.Interop.ComApi.dll
+C:\Users\ph1\Documents\GitHub\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.csprojResolveAssemblyReference.cache
+C:\Users\ph1\Documents\GitHub\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.Form1.resources
+C:\Users\ph1\Documents\GitHub\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.csproj.GenerateResource.Cache
+C:\Users\ph1\Documents\GitHub\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.dll
+C:\Users\ph1\Documents\GitHub\GetPrimitive\GetPrimitive\obj\x64\Debug\GetPrimitive.pdb
